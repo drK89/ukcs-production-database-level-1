@@ -4,7 +4,7 @@
 
 **Full professional title:** UKCS Monthly Hydrocarbon Production Database: Relational Design, Data Quality and SQL Analysis
 
-**العنوان العربي:** تصميم قاعدة بيانات علائقية وتحليل جودة بيانات الإنتاج الشهري للهيدروكربونات في الجرف القاري البريطاني
+* تصميم قاعدة بيانات علائقية وتحليل جودة بيانات الإنتاج الشهري للهيدروكربونات في الجرف القاري البريطاني
 
 ## Author | صاحب المشروع
 
@@ -21,7 +21,7 @@ the methodology, engineering assumptions, analytical results and limitations.
 
 **English:** How can a relational database be designed and queried to organise monthly UKCS hydrocarbon production data, assess its quality, and support reliable analysis using SQL and Python?
 
-**العربي:** كيف يمكن تصميم قاعدة بيانات علائقية وتنفيذ استعلامات عليها لتنظيم بيانات الإنتاج الشهري للهيدروكربونات في الجرف القاري البريطاني، وفحص جودتها، ودعم تحليل موثوق باستخدام SQL وPython؟
+** كيف يمكن تصميم قاعدة بيانات علائقية وتنفيذ استعلامات عليها لتنظيم بيانات الإنتاج الشهري للهيدروكربونات في الجرف القاري البريطاني، وفحص جودتها، ودعم تحليل موثوق باستخدام SQL وPython؟
 
 ## Project level and boundaries / المستوى والحدود
 
